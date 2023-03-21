@@ -19,8 +19,9 @@ Our application is also available as a Mobile web app, just open https://pingmet
 ![WhatsApp Image 2023-03-21 at 09 15 55](https://user-images.githubusercontent.com/53139260/226513036-5ff04704-bf25-4f44-a19c-1d6f26e35f5e.jpeg)
 
 
-
+```sssh
 Problem Statement: Develop a solution to boost the interest of K-12 students in Innovation and STEM education in India using AI
+```
 ## Project Description
 
 Our solution is aimed at K-12 students and focuses on boosting their innovation by providing byte-sized information cards.

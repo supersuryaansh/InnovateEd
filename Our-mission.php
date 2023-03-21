@@ -10,8 +10,9 @@
   <link rel="stylesheet" href="assets/style/card-style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-  <meta name="theme-color" content="#9d39a1">
   <link href="https://fonts.googleapis.com/css2?family=Bevan&amp;display=swap" rel="stylesheet">
+  <link rel="manifest" href="manifest.json">
+<script src="myscript.js"></script>
   <style type="text/css">
     .overlay-class {
       background-image: linear-gradient(rgba(0, 0, 0, 0.49), rgba(0, 0, 0, 0.49)), url("assets/images/809883.jpg");
@@ -33,7 +34,7 @@
 </head>
 
 <body style=" border-top-right-radius: 15px;  border-bottom-right-radius: 15px;">
-<?php include_once "includes/header.php"; ?>
+<?php include_once("includes/header.php"); ?>
   <div class="py-5 text-center d-flex align-items-center overlay-class" style="background-position: center center; background-size: 100%; background-repeat: repeat; height: 60vh;">
     <div class="container">
       <div class="row">
@@ -60,7 +61,7 @@ Whether you're a student, educator, or lifelong learner, we invite you to join u
       </div>
     </div>
   </div>
-<?php include_once "includes/footer.php"; ?>
+<?php include_once("includes/footer.php"); ?>
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>

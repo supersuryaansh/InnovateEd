@@ -84,4 +84,4 @@ An installation script will guide you and help you to setup the sql.php file for
 
 4. The name of our database is patents, import it into your mysql the DB is available in the cloned files itself.
 
-The installation is complete, and it will run on your system now.
+The installation is complete, and it will run on your system now. If you do not follow the instructions clearly and setup mysql properly then you will encounter 500 Server Error.

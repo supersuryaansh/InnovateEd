@@ -12,6 +12,13 @@ Members: Manjeet Agarwal,Suryaansh Singh, Utkarsh Payal, Deepak Panwar, Praveen 
 This is a working prototype of InnovateEd, our submission for the IT Day Hackathon. You can install it yourself or view it live here:
 https://pingmetrix.com/
 
+### Prograssive Web App
+
+Our application is also available as a Mobile web app, just open https://pingmetrix.com/ on chrome click on the three dots on top menu and click on Install App.
+
+![WhatsApp Image 2023-03-21 at 09 15 55](https://user-images.githubusercontent.com/53139260/226513036-5ff04704-bf25-4f44-a19c-1d6f26e35f5e.jpeg)
+
+
 
 Problem Statement: Develop a solution to boost the interest of K-12 students in Innovation and STEM education in India using AI
 ## Project Description

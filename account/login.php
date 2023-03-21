@@ -6,6 +6,11 @@ include_once("includes/essentials.php");
 //check if BigPP is configured
 //if not then configure
 
+if (!file_exists(ph_include('sql.php'))) {
+  header("Location: PPinsert.php");
+  die();
+}
+
 
 
 // Start the session

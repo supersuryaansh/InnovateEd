@@ -13,7 +13,7 @@ This is a working prototype of InnovateEd, our submission for the IT Day Hackath
 https://pingmetrix.com/
 
 
-Problem Statement: Develop a solution to boost the interest of K-12 students in Innovation and STEM education in India
+Problem Statement: Develop a solution to boost the interest of K-12 students in Innovation and STEM education in India using AI
 ## Project Description
 
 Our solution is aimed at K-12 students and focuses on boosting their innovation by providing byte-sized information cards.
